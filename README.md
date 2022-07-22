@@ -1,40 +1,78 @@
-source for https://cyberresilience.github.io/CyberResilienceFAQs/
+# Cyber Resilience Frequently Asked Questions
+
+The FAQ website can be found at
+https://cyberresilience.github.io/CyberResilienceFAQs/
+
+The Source for the website can be found at
+https://github.com/CyberResilience/CyberResilienceFAQs
+
+## Contributing
+See [Contributing](./CONTRIBUTING.md), including
+[Code of Conduct](./CODE_OF_CONDUCT.md)
+
+See the
+[Original Readme](./Orig_README.md)
+ for info on Markdown and GitHub Pages
+which are used to create this website.
+
+## License
+See [License](./LICENSE).
+See [contributing](./C)
 
 
-## Welcome to GitHub Pages
+## Section 1
+Eventually the FAQs will be organized into sections by topic.
+But for now they are just random
 
-You can use the [editor on GitHub](https://github.com/CyberResilience/CyberResilienceFAQs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Cyber Resilience?
+put answer here
 
-### Markdown
+### What is the relationship between Cyber Resilience and Cyber Security?
+put answer here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Where can I find out more about Cyber Resilience?
+put answer here
+- list blogs, youtubes, intro material
+- should we have some pages on this site of our own?
 
-```markdown
-Syntax highlighted code block
+### What standards and official publications exist?
+- [NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
+- [MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
+- [CERT Resilience Management Model (RMM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9881)
+- [MITRE Cyber Resiliency Design Principles] (https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
+- [Cyber ResilienceReview (CRR) tool]
+www.us-cert.gov/ccubedvp/assessments
 
-# Header 1
-## Header 2
-### Header 3
+### What academic publications exist for Cyber Reslience?
+- put list here
 
-- Bulleted
-- List
+### How is NIST SP800-160 relevant for cyber resilience?
+put answer here
 
-1. Numbered
-2. List
+For more information see
+[NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
 
-**Bold** and _Italic_ and `Code` text
+### What is MITRE Cyber Resilience Analysis (SCRAM)?
+put answer here
 
-[Link](url) and ![Image](src)
-```
+For more information see
+[MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### What is the CERT Resilience Management Model?
+put answer here
 
-### Jekyll Themes
+For more information see
+[CERT Resilience Management Model (RMM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9881)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CyberResilience/CyberResilienceFAQs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### What are the MITRE Cyber Resiliency Design Principles?
+put answer here
 
-### Support or Contact
+For more information see
+[MITRE Cyber Resiliency Design Principles] (https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### What is theCyber ResilienceReview (CRR) tool?
+put answer here
+
+For more information see 
+[Cyber ResilienceReview (CRR) tool](www.us-cert.gov/ccubedvp/assessments)
