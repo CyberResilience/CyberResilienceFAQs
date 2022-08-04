@@ -115,9 +115,10 @@ put answer here
 put answer here
 
 ### Where can I find out more about Cyber Resilience?
-put answer here
-- list blogs, youtubes, intro material
-- should we have some pages on this site of our own?
+- Blogs
+- Videos
+  - [RSA 2021 - Cyber Resilience: Say What?](https://www.youtube.com/watch?v=XamYaMUkop4)
+- Intro Material
 
 ### What standards and official publications exist?
 - [NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
