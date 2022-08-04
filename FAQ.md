@@ -118,15 +118,15 @@ put answer here
 - Blogs
 - Videos
   - [RSA 2021 - Cyber Resilience: Say What?](https://www.youtube.com/watch?v=XamYaMUkop4)
+  - [Valiant Technology - Cybersecurity Resilience Frameworks](https://www.youtube.com/watch?v=9xZ6dYky5JQ)
 - Intro Material
 
 ### What standards and official publications exist?
 - [NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
 - [MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
 - [CERT Resilience Management Model (RMM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9881)
-- [MITRE Cyber Resiliency Design Principles] (https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
-- [Cyber ResilienceReview (CRR) tool]
-www.us-cert.gov/ccubedvp/assessments
+- [MITRE Cyber Resiliency Design Principles](https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
+- [Cyber ResilienceReview (CRR) tool](www.us-cert.gov/ccubedvp/assessments)
 
 ### What academic publications exist for Cyber Resilience?
 - put list here
