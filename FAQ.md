@@ -95,6 +95,10 @@ This is from Francesco – collated from various sources (mainly MITRE and ISF).
 ### What is the relationship between Cyber Resilience and Cyber Security?
 put answer here
 
+### What is the relationship between Cyber Resilience and Business Resilience?
+put answer here
+
+
 ### What is the relationship between Cyber Resilience and Risk ?
 put answer here
 
