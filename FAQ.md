@@ -14,7 +14,44 @@ see first faq for how ugly it looks.
 ### <a id="whatIsCyberResilience">What is Cyber Resilience?</a>
 put answer here
 
+"the ability to continuously deliver the intended outcome despite adverse events"
+reference "Cyber Resilience - fundamentals for a definition" Bjorck et al,
+https://www.researchgate.net/publication/283102782_Cyber_Resilience_-_Fundamentals_for_a_Definition
+
+"the ability to prepare and plan for, to absorb, recover from, and more
+successfully adapt to adverse events"
+reference NAS via hausken
+https://www.researchgate.net/publication/283102782_Cyber_Resilience_-_Fundamentals_for_a_Definition
+
+"the ability of a system, person, or organization to recover from, defy
+or resist from any shock, insult, or disturbance"
+ref kishor via hausken
+
+"Cyber resilience is the ability of an actor to resist, respond, and recover
+from cyber incidents to ensure the actor's operational continuity"
+ref Hausken
+
+"assuming two equally performing systems A and B subjected to an impact (resulting from a cyber-attack) that left both systems with an equal performance degradation, the resiliency of system A is greater if after a given period T it recovers to a higher level of performance than that of system B."
+ref linkov "assuming two equally ..."
+
+
+
 ### What is the relationship between Cyber Resilience and Cyber Security?
+put answer here
+
+### What is the relationship between Cyber Resilience and Risk ?
+put answer here
+
+### What is the relationship between Cyber Resilience and Robustness ?
+put answer here
+
+### What is the relationship between Cyber Resilience and Recovery Time ?
+put answer here
+
+### What is the relationship between Cyber Resilience and Adaptive Management ?
+put answer here
+
+### What is the relationship between Cyber Resilience and complexity ?
 put answer here
 
 ### Where can I find out more about Cyber Resilience?
