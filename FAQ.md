@@ -31,9 +31,65 @@ ref kishor via hausken
 from cyber incidents to ensure the actor's operational continuity"
 ref Hausken
 
-"assuming two equally performing systems A and B subjected to an impact (resulting from a cyber-attack) that left both systems with an equal performance degradation, the resiliency of system A is greater if after a given period T it recovers to a higher level of performance than that of system B."
-ref linkov "assuming two equally ..."
+"assuming two equally performing systems A and B subjected
+to an impact (resulting from a cyber-attack) that left both
+systems with an equal performance degradation, the
+resiliency of system A is greater if after a given period T
+it recovers to a higher level of performance than that of
+system B."
+ref linkov
 
+"The ability to anticipate, withstand, recover from, and
+adapt to adverse conditions, stresses, attacks, or
+compromises on systems that use or are enabled by cyber
+resources."
+Source(s):
+NIST SP 800-172
+
+"The ability to anticipate, withstand, recover from, and
+adapt to adverse conditions, stresses, attacks, or
+compromises on systems that use or are enabled by cyber
+resources.
+Cyber resiliency is intended to enable mission or
+business objectives that depend on cyber resources to be
+achieved in a contested cyber environment."
+Source(s):
+NIST SP 800-160 Vol. 2 Rev. 1
+NIST SP 800-172A from NIST SP 800-160 Vol. 2 Rev. 1
+
+"Cyber resilience is the ability of an organization to
+transcend any stresses, failures, hazards and threats to its
+cyber resources within the organization and its ecosystem,
+such that the organization can confidently pursue its
+mission, enable its culture and maintain its desired way of
+operating."
+https://www3.weforum.org/docs/WEF_Cyber_Resilience_Index_2022.pdf
+
+“Cyber resilience refers to the ability to protect
+electronic data and systems from cyberattacks, as well as to
+resume business operations quickly in case of a successful
+attack.”
+https://www.ecb.europa.eu/paym/cyber-resilience/html/index.en.html
+
+“‘Cyber resilience’ is the ability for organisations to
+prepare for, respond to and recover from cyber attacks and
+security breaches.”
+https://www.gov.uk/government/collections/cyber-resilience
+
+“The ability to anticipate, withstand, recover from, and
+adapt to adverse conditions, stresses, attacks, or
+compromises on systems that use or are enabled by cyber
+resources.”
+https://csrc.nist.gov/glossary/term/cyber_resiliency
+
+“‘Cyber resiliency (also referred to as cyber resilience) is
+the ability to anticipate, withstand, recover from, and
+adapt to adverse conditions, stresses, attacks, or
+compromises on cyber resources.”
+https://www.mitre.org/sites/default/files/PR_17-1434.pdf
+
+This is from Francesco – collated from various sources (mainly MITRE and ISF).
+"The science of anticipation defined mission assurance. Mission assurance defines engineering practices to secure enterprises from advanced threats. Cyber resilience is part of mission assurance, focused on advanced cyber threats."
 
 
 ### What is the relationship between Cyber Resilience and Cyber Security?
