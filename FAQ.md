@@ -220,7 +220,16 @@ Others
 
 
 ### How is NIST SP800-160 relevant for cyber resilience?
-put answer here
+The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. Adopting a systems engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management.
+
+Cyber resiliency addresses the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources.Consequently, cyber resilience engineering is defined as follows:
+
+"Engineering that intends to architect, design, develop, implement, maintain, and sustain the trustworthiness of systems with the capability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises that use or are enabled by cyber resources."
+
+The NIST-SP 800-160 defines cyber resilience and offers a set of goals, objectives, techniques and approaches, design principles, and clarifies the relationship between various cyber resiliency constructs. Notably, this SP emphasizes that cyber resiliency differs with the life cycle of a system and calls for the need for customized goals and objectives that benefit stakeholders at every stage of the system’s life cycle. Additionally, the document provides guidance for adapting cyber resiliency to different kinds of environments such as enterprise systems, cyber physical systems, and critical infrastructure systems, among others.
+
+The interested reader is referred to the document here: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v2r1.pdf
+
 
 For more information see
 [NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
