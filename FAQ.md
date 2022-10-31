@@ -102,17 +102,6 @@ Business Resilience is the ability for a business or organization to continue to
 ### What is the relationship between Cyber Resilience and Risk ?
 put answer here
 
-### What is the relationship between Cyber Resilience and Robustness ?
-put answer here
-
-### What is the relationship between Cyber Resilience and Recovery Time ?
-put answer here
-
-### What is the relationship between Cyber Resilience and Adaptive Management ?
-put answer here
-
-### What is the relationship between Cyber Resilience and complexity ?
-put answer here
 
 ### Where can I find out more about Cyber Resilience?
 - Blogs
@@ -121,6 +110,25 @@ put answer here
   - [Valiant Technology - Cybersecurity Resilience Frameworks](https://www.youtube.com/watch?v=9xZ6dYky5JQ)
 - Intro Material
 
+### How are NIST publications relevant to cyber resilience?
+fillin
+
+### How is NIST SP800-160 relevant for cyber resilience?
+The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. Adopting a systems engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management.
+
+Cyber resiliency addresses the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources.Consequently, cyber resilience engineering is defined as follows:
+
+"Engineering that intends to architect, design, develop, implement, maintain, and sustain the trustworthiness of systems with the capability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises that use or are enabled by cyber resources."
+
+The NIST-SP 800-160 defines cyber resilience and offers a set of goals, objectives, techniques and approaches, design principles, and clarifies the relationship between various cyber resiliency constructs. Notably, this SP emphasizes that cyber resiliency differs with the life cycle of a system and calls for the need for customized goals and objectives that benefit stakeholders at every stage of the system’s life cycle. Additionally, the document provides guidance for adapting cyber resiliency to different kinds of environments such as enterprise systems, cyber physical systems, and critical infrastructure systems, among others.
+
+The interested reader is referred to the document here: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v2r1.pdf
+
+
+For more information see
+[NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
+
+
 ### What standards and official publications exist?
 - [NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
 - [MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
@@ -128,55 +136,6 @@ put answer here
 - [MITRE Cyber Resiliency Design Principles](https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
 - [Cyber ResilienceReview (CRR) tool](www.us-cert.gov/ccubedvp/assessments)
 
-### What academic publications exist for Cyber Resilience?
-
-General
-
-1. Linkov, I., & Kott, A. (2019). Fundamental concepts of cyber resilience: Introduction and overview. Cyber resilience of systems and networks, 1-25.
-2. Björck, F., Henkel, M., Stirna, J., & Zdravkovic, J. (2015). Cyber resilience–fundamentals for a definition. In New contributions in information systems and technologies (pp. 311-316). Springer, Cham.
-3. Herrington, L., & Aldrich, R. (2013). The future of cyber-resilience in an age of global complexity. Politics, 33(4), 299-310.
-4. Estay, D. A. S., Sahay, R., Barfod, M. B., & Jensen, C. D. (2020). A systematic review of cyber-resilience assessment frameworks. Computers & security, 97, 101996.
-5. Kott, A., Golan, M. S., Trump, B. D., & Linkov, I. (2021). Cyber resilience: by design or by intervention?. Computer, 54(8), 112-117.
-6. Carías, J. F., Arrizabalaga, S., Labaka, L., & Hernantes, J. (2020). Cyber resilience progression model. Applied Sciences, 10(21), 7393.
-
-Cyber resilience in supply chain
-
-1. Khan, O., & Estay, D. A. S. (2015). Supply chain cyber-resilience: Creating an agenda for future research. Technology Innovation Management Review, 5(4).
-2. Davis, A. (2015). Building cyber-resilience into supply chains. Technology Innovation Management Review, 5(4).
-3. Urciuoli, L. (2015). Cyber-resilience: a strategic approach for supply chain management. Technology Innovation Management Review, 5(4).
-4. Rahman, S., Hossain, N. U. I., Govindan, K., Nur, F., & Bappy, M. (2021). Assessing cyber resilience of additive manufacturing supply chain leveraging data fusion technique: A model to generate cyber resilience index of a supply chain. CIRP Journal of Manufacturing Science and Technology, 35, 911-928.
-
-Cyber resilience for critical infrastructure
-
-1. Ibne Hossain, N. U., Nagahi, M., Jaradat, R., Shah, C., Buchanan, R., & Hamilton, M. (2020). Modeling and assessing cyber resilience of smart grid using Bayesian network-based approach: a system of systems problem. Journal of Computational Design and Engineering, 7(3), 352-366.
-2. Bellini, E., Marrone, S., & Marulli, F. (2021). Cyber resilience meta-modelling: the railway communication case study. Electronics, 10(5), 583.
-3. Ahmadi-Assalemi, G., Al-Khateeb, H., Epiphaniou, G., & Maple, C. (2020). Cyber resilience and incident response in smart cities: A systematic literature review. Smart Cities, 3(3), 894-927.
-4. Harrop, W., & Matteson, A. (2014). Cyber resilience: A review of critical national infrastructure and cyber security protection measures applied in the UK and USA. Journal of Business Continuity & Emergency Planning, 7(2), 149-162.
-5. Patriarca, R., Simone, F., & Di Gravio, G. (2022). Modelling cyber resilience in a water treatment and distribution system. Reliability Engineering & System Safety, 108653.
-5. Ghiasi, M., Dehghani, M., Niknam, T., & Kavousi-Fard, A. (2020). Investigating overall structure of cyber-attacks on smart-grid control systems to improve cyber resilience in power system. Network, 1(1).
-6. Salvi, A., Spagnoletti, P., & Noori, N. S. (2022). Cyber-resilience of Critical Cyber Infrastructures: Integrating digital twins in the electric power ecosystem. Computers & Security, 112, 102507.
-7. Zou, B., Choobchian, P., & Rozenberg, J. (2021). Cyber resilience of autonomous mobility systems: cyber-attacks and resilience-enhancing strategies. Journal of transportation security, 1-19.
-8. Boddy, A., Hurst, W., Mackay, M., & Rhalibi, A. E. (2017, October). A study into data analysis and visualisation to increase the cyber-resilience of healthcare infrastructures. In Proceedings of the 1st International Conference on Internet of Things and Machine Learning (pp. 1-7).
-
-
-Theories
-
-1. Petrenko, S. A., & Vorobieva, D. E. (2019, May). Method of Ensuring Cyber Resilience of Digital Platforms Based on Catastrophe Theory. In 2019 XXII International Conference on Soft Computing and Measurements (SCM)) (pp. 97-101). IEEE.
-2. Osborn, J. K., & Sepulveda-Estay, D. A. (2021, December). A Comparative Analysis of the Impact-Wave Analogy Cyber-Resilience Framework. In 2021 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM) (pp. 333-337). IEEE.
-
-Financial institutions
-
-1. Dupont, B. (2019). The cyber-resilience of financial institutions: significance and applicability. Journal of cybersecurity, 5(1), tyz013.
-Carías, J. F., Borges, M. R., Labaka, L., Arrizabalaga, S., & Hernantes, J. (2020). Systematic approach to cyber resilience operationalization in SMEs. IEEE Access, 8, 174200-174221.
-
-Cyberresilience in IoT and CPS
-1. Syrmakesis, A. D., Alcaraz, C., & Hatziargyriou, N. D. (2022). Classifying resilience approaches for protecting smart grids against cyber threats. International Journal of Information Security, 1-22.
-2. Gajek, S., Lees, M., & Jansen, C. (2021). IIoT and cyber-resilience. AI & society, 36(3), 725-735.
-3. Haque, M. A., De Teyou, G. K., Shetty, S., & Krishnappa, B. (2018, November). Cyber resilience framework for industrial control systems: concepts, metrics, and insights. In 2018 IEEE international conference on intelligence and security informatics (ISI) (pp. 25-30). IEEE.
-4. Jacobs, N., Hossain-McKenzie, S., & Vugrin, E. (2018, August). Measurement and analysis of cyber resilience for control systems: An illustrative example. In 2018 Resilience Week (RWS) (pp. 38-46). IEEE.
-5. Carías, J. F., Labaka, L., Sarriegi, J. M., & Hernantes, J. (2019). Defining a cyber resilience investment strategy in an industrial internet of things context. Sensors, 19(1), 138.
-6. Segovia, M., Rubio-Hernan, J., Cavalli, A. R., & Garcia-Alfaro, J. (2020, November). Cyber-resilience evaluation of cyber-physical systems. In 2020 IEEE 19th International Symposium on Network Computing and Applications (NCA) (pp. 1-8). IEEE.
-7. Haque, M. A., Shetty, S., & Krishnappa, B. (2019, May). ICS-CRAT: a cyber resilience assessment tool for industrial control systems. In 2019 IEEE 5th Intl Conference on Big Data Security on Cloud (BigDataSecurity), IEEE Intl Conference on High Performance and Smart Computing,(HPSC) and IEEE Intl Conference on Intelligent Data and Security (IDS) (pp. 273-281). IEEE.
 
 Cyber resilience in aviation
 
@@ -219,56 +178,41 @@ Others
 18. Škanata, D. (2020). Improving Cyber Security with Resilience. Annals of Disaster Risk Sciences: ADRS, 3(1), 0-0.
 
 
-### How is NIST SP800-160 relevant for cyber resilience?
-The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. Adopting a systems engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management.
-
-Cyber resiliency addresses the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources.Consequently, cyber resilience engineering is defined as follows:
-
-"Engineering that intends to architect, design, develop, implement, maintain, and sustain the trustworthiness of systems with the capability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises that use or are enabled by cyber resources."
-
-The NIST-SP 800-160 defines cyber resilience and offers a set of goals, objectives, techniques and approaches, design principles, and clarifies the relationship between various cyber resiliency constructs. Notably, this SP emphasizes that cyber resiliency differs with the life cycle of a system and calls for the need for customized goals and objectives that benefit stakeholders at every stage of the system’s life cycle. Additionally, the document provides guidance for adapting cyber resiliency to different kinds of environments such as enterprise systems, cyber physical systems, and critical infrastructure systems, among others.
-
-The interested reader is referred to the document here: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v2r1.pdf
-
-
-For more information see
-[NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
-
 ### What is MITRE Cyber Resilience Analysis (SCRAM)?
 put answer here
+  <<Calin>>
 
 For more information see
 [MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
-
+  
 ### What is the CERT Resilience Management Model?
 put answer here
-
+<<Josh>>
+  
 For more information see
 [CERT Resilience Management Model (RMM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9881)
 
 ### What are the MITRE Cyber Resiliency Design Principles?
 put answer here
-
+<<Josh>>
+  
 For more information see
 [MITRE Cyber Resiliency Design Principles] (https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
 
 ### What is the Cyber Resilience Review (CRR) tool?
 put answer here
-
+<<Josh>>
+  
 For more information see
 [Cyber ResilienceReview (CRR) tool](www.us-cert.gov/ccubedvp/assessments)
 
 ### How does Cyber Resilience relate to Enterprise Risk Management (ERM)?
 put answer here
-
-### How does Cyber Resilience fit with NIST NIST Risk Management Framework (RMF) SP 800-53?
-put answer here
+  <<Christina & Walter>>
 
 ### How does Cyber Resilience fit with Mitre ATT&CK?
 put answer here
-
-### How does Cyber Resilience relate to compliance?
-put answer here
+  <<Francesco>>
 
 ### How is DIE (distributed, immutable, ephemeral) relevant to Cyber Resilience?
 put answer here
