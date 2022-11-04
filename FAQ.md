@@ -107,7 +107,7 @@ Business Resilience is the ability for a business or organization to continue to
 - Intro Material
 
 ### How are NIST publications relevant to cyber resilience?
-fillin
+<<Renita>>
 
 ### How is NIST SP800-160 relevant for cyber resilience?
 The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. In the current landscape of still-evolving cyber resilience frameworks, the NIST SP 800-16 Vol. 2 is one of the major frameworks that comprehensively addresses cyber resilience. Some other frameworks for cyber-resilience that have been developed include those put forth in whitepapers by the MITRE and World Economic Forum. Adopting a systems-engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management. (Note: NIST SP 800-160- Vol.1 first published in 2016, is focused on the development of multidisciplinary approaches for engineering secure and trustworthy systems.)
@@ -175,7 +175,7 @@ Others
 
 ### What is MITRE Cyber Resilience Analysis (SCRAM)?
 put answer here
-  <<Calin>>
+ <<Calin>>
 
 For more information see
 [MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
@@ -203,11 +203,11 @@ For more information see
 
 ### How does Cyber Resilience relate to Enterprise Risk Management (ERM)?
 put answer here
-  <<Christina & Walter>>
+<<Christina & Walter>>
 
 ### How does Cyber Resilience fit with Mitre ATT&CK?
 put answer here
-  <<Francesco>>
+<<Francesco>>
 
 ### How is DIE (distributed, immutable, ephemeral) relevant to Cyber Resilience?
 put answer here
