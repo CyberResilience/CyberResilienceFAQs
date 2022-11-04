@@ -99,10 +99,6 @@ put answer here
 Business Resilience is the ability for a business or organization to continue to move foward with it's business prupose while reacting and recovering to unknown challanges.  It is generally a key driver for any risk program.  Business Resilience, and the policies and tollerances that are agreed upon by the risk office should be the drivers for a Cyber Resilience program.  In other words, a Cyber Resilience program should fufill the goals of a Business Resiliance plan or program, where technology is conserned.
 
 
-### What is the relationship between Cyber Resilience and Risk ?
-put answer here
-
-
 ### Where can I find out more about Cyber Resilience?
 - Blogs
 - Videos
@@ -215,9 +211,6 @@ put answer here
   <<Francesco>>
 
 ### How is DIE (distributed, immutable, ephemeral) relevant to Cyber Resilience?
-put answer here
-
-### How is "cattle/pets" relevant to Cyber Resilience?
 put answer here
 
 ### What is the business justification for increasing Cyber Resilience?
