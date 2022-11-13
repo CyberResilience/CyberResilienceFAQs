@@ -103,7 +103,18 @@ This is from Francesco – collated from various sources (mainly MITRE and ISF).
 
 
 ### What is the relationship between Cyber Resilience and Cyber Security?
-put answer here
+
+Cyber Resilience is an overlay and extension of Cyber Security.
+There are four key differences between Cyber Resilience and Cyber Security (source: www.highvaluetarget.org):
+
+Difference #1: Cybersecurity encompasses a wide set of controls from NIST 800-53 r5 (by definition, a set of security baseline controls), roughly 1100 controls. Cyber resilience aims to extend the depth at which a small set of controls are designed and then perform (this set of controls is outlined in NIST 800-53 but NIST 800-160 and 800-172 expand these), roughly 200 controls.
+
+Difference #2: Cybersecurity focuses on protecting all assets, with special focus on high value assets (business view). Cyber resilience focuses on protecting primarily high value targets (adversary view).
+
+Difference #3: Cybersecurity focuses on “severe but plausible” threat scenarios against adversaries who go after the less protected and the most vulnerable – NIST 800-53 controls allow to provide adequate protection against these. Cyber resilience focuses on “extreme but plausible” threat scenarios against adversaries who may pivot from primary organizational impacts to secondary impacts potentially causing unknown harm to the organization as a whole – NIST 800-160 and NIST 800-172 provide the needed techniques and approaches which have corresponding controls in NIST 800-53 r5 however at a deeper level of detail.
+
+Difference #4: Cybersecurity focuses on reducing likelihood of occurrence as well as reducing likelihood of impact through the application of security frameworks such as the NIST CSF. Security is about keeping adversary from doing harm. Cyber resilience focuses on reducing magnitude of impact which can be achieved by specific security architecture and engineering practices such as MITRE CREF. Resiliency recognizes harm may occur and how to maximize mission achievement despite that.
+
 
 ### What is the relationship between Cyber Resilience and Business Resilience?
 Business Resilience is the ability for a business or organization to continue to move foward with it's business prupose while reacting and recovering to unknown challanges.  It is generally a key driver for any risk program.  Business Resilience, and the policies and tollerances that are agreed upon by the risk office should be the drivers for a Cyber Resilience program.  In other words, a Cyber Resilience program should fufill the goals of a Business Resiliance plan or program, where technology is conserned.
