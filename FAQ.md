@@ -12,6 +12,16 @@ see first faq for how ugly it looks.
 
 
 ### <a id="whatIsCyberResilience">What is Cyber Resilience?</a>
+
+Cyber Resilience is achieved by making it costly and difficult for intruders to break into our environment and maintain presence in the systems, as well as strengthening the system-of-system’s ability to recover business functions after adversity. One of the first steps to kick-start a Cyber Resilience program is by identifying critical data, processes and systems that are high value assets and develop plans to address gaps in resiliency. Once identified, those key assets can be designed, implemented and maintained appropriately by leveraging existing cyber resilience best practices. This perspective is particularly relevant to address Advanced Persistent Threats (APT) which may execute a coordinated, destructive long-lasting attack towards an organization. APT actors aim to compromise not only the most vulnerable or less protected assets in order to carry out their mission. In fact, they may specifically decide to attack assets that can provide them maximum gain towards the achievement of their objectives. These assets are referred to as High Value Targets.
+
+The ultimate definition of Cyber Resilience:
+
+Business world - Cyber Resilience is an outcome of Cyber Security and Operational Resilience and is defined as “the ability of an organization to transcend any stresses, failures, hazards and threats to its cyber resources within the organization and its ecosystem, such that the organization can confidently pursue its mission, enable its culture and maintain its desired way of operating” (WEF, 2022).
+
+Technical world - Cyber Resilience is an extension of Cyber Security and is defined as “the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources. Cyber resiliency is intended to enable mission or business objectives that depend on cyber resources to be achieved in a contested cyber environment.” (NIST 800-160 v2 r1). Cyber Resilience is grounded on NIST 800-160 v2 r1 and MITRE CREF (the most authoritative industry resources known nowadays).
+
+
 put answer here
 
 "the ability to continuously deliver the intended outcome despite adverse events"
