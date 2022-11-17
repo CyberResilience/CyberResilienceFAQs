@@ -111,7 +111,7 @@ put answer here
 - Intro Material
 
 ### How are NIST publications relevant to cyber resilience?
-fillin
+NIST’s SP 800-160 series focuses on systems security. Its first volume, released in 2018, was focused on secure systems engineering and used approaches from a range of engineering disciplines to inform its guidelines on the development of trustworthy secure systems. The second volume of SP 800-160, released in 2021, is however, exclusively focused on the topic of cyber resiliency. The focus of Vol. 2 is to work in conjunction with the earlier released guidelines on systems engineering in Vol. 1. Additionally, the CISA has published a Cyber Resiliency Review, which is a free, voluntary, non-technical assessment to evaluate an organization’s operational resilience and cybersecurity practices. CISA has also made available a mapping framework linking the NIST’s Cyber Security Framework  (CSF) to the CISA’s Cyber Resiliency Review (CRR). 
 
 ### How is NIST SP800-160 relevant for cyber resilience?
 The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. Adopting a systems engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management.
