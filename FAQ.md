@@ -127,11 +127,22 @@ Business Resilience is the ability for a business or organization to continue to
   - [Valiant Technology - Cybersecurity Resilience Frameworks](https://www.youtube.com/watch?v=9xZ6dYky5JQ)
 - Intro Material
 
-### How are NIST publications relevant to cyber resilience?
-<<Renita>>
 
 ### How is NIST SP800-160 relevant for cyber resilience?
-The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. In the current landscape of still-evolving cyber resilience frameworks, the NIST SP 800-16 Vol. 2 is one of the major frameworks that comprehensively addresses cyber resilience. Some other frameworks for cyber-resilience that have been developed include those put forth in whitepapers by the MITRE and World Economic Forum. Adopting a systems-engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management. (Note: NIST SP 800-160- Vol.1 first published in 2016, is focused on the development of multidisciplinary approaches for engineering secure and trustworthy systems.)
+NIST’s SP 800-160 series focuses on systems security. 
+Its first volume, released in 2018, was focused on secure systems engineering and used approaches 
+from a range of engineering disciplines to inform its guidelines on the development of trustworthy secure systems. 
+The second volume of SP 800-160, released in 2021, is however, exclusively focused on the topic of cyber resiliency. 
+The focus of Vol. 2 is to work in conjunction with the earlier released guidelines on systems engineering in Vol. 1. 
+Additionally, the CISA has published a Cyber Resiliency Review, which is a free, voluntary, non-technical assessment 
+to evaluate an organization’s operational resilience and cybersecurity practices. CISA has also made available 
+a mapping framework linking the NIST’s Cyber Security Framework  (CSF) to the CISA’s Cyber Resiliency Review (CRR). 
+
+The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. 
+In the current landscape of still-evolving cyber resilience frameworks, the NIST SP 800-16 Vol. 2 is one of the major frameworks that comprehensively addresses cyber resilience. 
+Some other frameworks for cyber-resilience that have been developed include those put forth in whitepapers by the MITRE and World Economic Forum. 
+Adopting a systems-engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management. 
+(Note: NIST SP 800-160- Vol.1 first published in 2016, is focused on the development of multidisciplinary approaches for engineering secure and trustworthy systems.)
 
 Cyber resiliency is the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources.Consequently, cyber resilience engineering is defined as follows:
 
