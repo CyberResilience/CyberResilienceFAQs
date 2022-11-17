@@ -12,6 +12,16 @@ see first faq for how ugly it looks.
 
 
 ### <a id="whatIsCyberResilience">What is Cyber Resilience?</a>
+
+Cyber Resilience is achieved by making it costly and difficult for intruders to break into our environment and maintain presence in the systems, as well as strengthening the system-of-system’s ability to recover business functions after adversity. One of the first steps to kick-start a Cyber Resilience program is by identifying critical data, processes and systems that are high value assets and develop plans to address gaps in resiliency. Once identified, those key assets can be designed, implemented and maintained appropriately by leveraging existing cyber resilience best practices. This perspective is particularly relevant to address Advanced Persistent Threats (APT) which may execute a coordinated, destructive long-lasting attack towards an organization. APT actors aim to compromise not only the most vulnerable or less protected assets in order to carry out their mission. In fact, they may specifically decide to attack assets that can provide them maximum gain towards the achievement of their objectives. These assets are referred to as High Value Targets.
+
+The ultimate definition of Cyber Resilience:
+
+Business world - Cyber Resilience is an outcome of Cyber Security and Operational Resilience and is defined as “the ability of an organization to transcend any stresses, failures, hazards and threats to its cyber resources within the organization and its ecosystem, such that the organization can confidently pursue its mission, enable its culture and maintain its desired way of operating” (WEF, 2022).
+
+Technical world - Cyber Resilience is an extension of Cyber Security and is defined as “the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources. Cyber resiliency is intended to enable mission or business objectives that depend on cyber resources to be achieved in a contested cyber environment.” (NIST 800-160 v2 r1). Cyber Resilience is grounded on NIST 800-160 v2 r1 and MITRE CREF (the most authoritative industry resources known nowadays).
+
+
 put answer here
 
 "the ability to continuously deliver the intended outcome despite adverse events"
@@ -93,14 +103,21 @@ This is from Francesco – collated from various sources (mainly MITRE and ISF).
 
 
 ### What is the relationship between Cyber Resilience and Cyber Security?
-put answer here
+
+Cyber Resilience is an overlay and extension of Cyber Security.
+There are four key differences between Cyber Resilience and Cyber Security (source: www.highvaluetarget.org):
+
+Difference #1: Cybersecurity encompasses a wide set of controls from NIST 800-53 r5 (by definition, a set of security baseline controls), roughly 1100 controls. Cyber resilience aims to extend the depth at which a small set of controls are designed and then perform (this set of controls is outlined in NIST 800-53 but NIST 800-160 and 800-172 expand these), roughly 200 controls.
+
+Difference #2: Cybersecurity focuses on protecting all assets, with special focus on high value assets (business view). Cyber resilience focuses on protecting primarily high value targets (adversary view).
+
+Difference #3: Cybersecurity focuses on “severe but plausible” threat scenarios against adversaries who go after the less protected and the most vulnerable – NIST 800-53 controls allow to provide adequate protection against these. Cyber resilience focuses on “extreme but plausible” threat scenarios against adversaries who may pivot from primary organizational impacts to secondary impacts potentially causing unknown harm to the organization as a whole – NIST 800-160 and NIST 800-172 provide the needed techniques and approaches which have corresponding controls in NIST 800-53 r5 however at a deeper level of detail.
+
+Difference #4: Cybersecurity focuses on reducing likelihood of occurrence as well as reducing likelihood of impact through the application of security frameworks such as the NIST CSF. Security is about keeping adversary from doing harm. Cyber resilience focuses on reducing magnitude of impact which can be achieved by specific security architecture and engineering practices such as MITRE CREF. Resiliency recognizes harm may occur and how to maximize mission achievement despite that.
+
 
 ### What is the relationship between Cyber Resilience and Business Resilience?
 Business Resilience is the ability for a business or organization to continue to move foward with it's business prupose while reacting and recovering to unknown challanges.  It is generally a key driver for any risk program.  Business Resilience, and the policies and tollerances that are agreed upon by the risk office should be the drivers for a Cyber Resilience program.  In other words, a Cyber Resilience program should fufill the goals of a Business Resiliance plan or program, where technology is conserned.
-
-
-### What is the relationship between Cyber Resilience and Risk ?
-put answer here
 
 
 ### Where can I find out more about Cyber Resilience?
@@ -110,23 +127,33 @@ put answer here
   - [Valiant Technology - Cybersecurity Resilience Frameworks](https://www.youtube.com/watch?v=9xZ6dYky5JQ)
 - Intro Material
 
-### How are NIST publications relevant to cyber resilience?
-NIST’s SP 800-160 series focuses on systems security. Its first volume, released in 2018, was focused on secure systems engineering and used approaches from a range of engineering disciplines to inform its guidelines on the development of trustworthy secure systems. The second volume of SP 800-160, released in 2021, is however, exclusively focused on the topic of cyber resiliency. The focus of Vol. 2 is to work in conjunction with the earlier released guidelines on systems engineering in Vol. 1. Additionally, the CISA has published a Cyber Resiliency Review, which is a free, voluntary, non-technical assessment to evaluate an organization’s operational resilience and cybersecurity practices. CISA has also made available a mapping framework linking the NIST’s Cyber Security Framework  (CSF) to the CISA’s Cyber Resiliency Review (CRR). 
 
 ### How is NIST SP800-160 relevant for cyber resilience?
-The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. Adopting a systems engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management.
+NIST’s SP 800-160 series focuses on systems security. 
+Its first volume, released in 2018, was focused on secure systems engineering and used approaches 
+from a range of engineering disciplines to inform its guidelines on the development of trustworthy secure systems. 
+The second volume of SP 800-160, released in 2021, is however, exclusively focused on the topic of cyber resiliency. 
+The focus of Vol. 2 is to work in conjunction with the earlier released guidelines on systems engineering in Vol. 1. 
+Additionally, the CISA has published a Cyber Resiliency Review, which is a free, voluntary, non-technical assessment 
+to evaluate an organization’s operational resilience and cybersecurity practices. CISA has also made available 
+a mapping framework linking the NIST’s Cyber Security Framework  (CSF) to the CISA’s Cyber Resiliency Review (CRR). 
 
-Cyber resiliency addresses the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources.Consequently, cyber resilience engineering is defined as follows:
+The NIST SP 800-160 (Vol. 2 Revision 1, 2021) is focused on the development of cyber resilient systems. 
+In the current landscape of still-evolving cyber resilience frameworks, the NIST SP 800-16 Vol. 2 is one of the major frameworks that comprehensively addresses cyber resilience. 
+Some other frameworks for cyber-resilience that have been developed include those put forth in whitepapers by the MITRE and World Economic Forum. 
+Adopting a systems-engineering foundation, this SP incorporate principles from systems engineering, security, resilience, and risk management. 
+(Note: NIST SP 800-160- Vol.1 first published in 2016, is focused on the development of multidisciplinary approaches for engineering secure and trustworthy systems.)
 
-"Engineering that intends to architect, design, develop, implement, maintain, and sustain the trustworthiness of systems with the capability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises that use or are enabled by cyber resources."
+Cyber resiliency is the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources.Consequently, cyber resilience engineering is defined as follows:
 
-The NIST-SP 800-160 defines cyber resilience and offers a set of goals, objectives, techniques and approaches, design principles, and clarifies the relationship between various cyber resiliency constructs. Notably, this SP emphasizes that cyber resiliency differs with the life cycle of a system and calls for the need for customized goals and objectives that benefit stakeholders at every stage of the system’s life cycle. Additionally, the document provides guidance for adapting cyber resiliency to different kinds of environments such as enterprise systems, cyber physical systems, and critical infrastructure systems, among others.
+Engineering that intends to architect, design, develop, implement, maintain, and sustain the trustworthiness of systems with the capability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises that use or are enabled by cyber resources.
+
+The NIST-SP 800-160 defines cyber resilience and offers a set of four goals (anticipate, withstand, recover, adapt) and eight objectives (prevent/avoid, prepare, continue, constrain, reconstitute, understand, transform, re-architect). In addition, this framework offers a set of fourteen techniques and approaches, strategic and structural design principles, and clarifies the relationship between various cyber resiliency constructs. 
+
+Notably, this SP emphasizes that cyber resiliency differs with the life cycle of a system and calls for the need for customized goals and objectives that benefit stakeholders at every stage of the system’s life cycle. Additionally, the document provides guidance for adapting cyber resiliency to different kinds of environments such as enterprise systems, cyber physical systems, and critical infrastructure systems, among others.
 
 The interested reader is referred to the document here: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v2r1.pdf
 
-
-For more information see
-[NIST SP800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-2/final)
 
 
 ### What standards and official publications exist?
@@ -180,7 +207,7 @@ Others
 
 ### What is MITRE Cyber Resilience Analysis (SCRAM)?
 put answer here
-  <<Calin>>
+ <<Calin>>
 
 For more information see
 [MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
@@ -208,16 +235,13 @@ For more information see
 
 ### How does Cyber Resilience relate to Enterprise Risk Management (ERM)?
 put answer here
-  <<Christina & Walter>>
+<<Christina & Walter>>
 
 ### How does Cyber Resilience fit with Mitre ATT&CK?
 put answer here
-  <<Francesco>>
+<<Francesco>>
 
 ### How is DIE (distributed, immutable, ephemeral) relevant to Cyber Resilience?
-put answer here
-
-### How is "cattle/pets" relevant to Cyber Resilience?
 put answer here
 
 ### What is the business justification for increasing Cyber Resilience?
