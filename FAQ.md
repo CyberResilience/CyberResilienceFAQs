@@ -1,28 +1,15 @@
 # Cyber Resilience Frequently Asked Questions
 
-## Section 1
-Editors Note:
-Eventually the FAQs will be organized into sections by topic.
-But for now they are just random
-
-Editors Note:
-should we anchor/bookmark questions?
-Can template do it? or do we need to put html inline -
-see first faq for how ugly it looks.
-
 
 ### <a id="whatIsCyberResilience">What is Cyber Resilience?</a>
 
 Cyber Resilience is achieved by making it costly and difficult for intruders to break into our environment and maintain presence in the systems, as well as strengthening the system-of-system’s ability to recover business functions after adversity. One of the first steps to kick-start a Cyber Resilience program is by identifying critical data, processes and systems that are high value assets and develop plans to address gaps in resiliency. Once identified, those key assets can be designed, implemented and maintained appropriately by leveraging existing cyber resilience best practices. This perspective is particularly relevant to address Advanced Persistent Threats (APT) which may execute a coordinated, destructive long-lasting attack towards an organization. APT actors aim to compromise not only the most vulnerable or less protected assets in order to carry out their mission. In fact, they may specifically decide to attack assets that can provide them maximum gain towards the achievement of their objectives. These assets are referred to as High Value Targets.
 
-The ultimate definition of Cyber Resilience:
+The ultimate definition of Cyber Resilience in different domains may be stated as follows:
 
 Business world - Cyber Resilience is an outcome of Cyber Security and Operational Resilience and is defined as “the ability of an organization to transcend any stresses, failures, hazards and threats to its cyber resources within the organization and its ecosystem, such that the organization can confidently pursue its mission, enable its culture and maintain its desired way of operating” (WEF, 2022).
 
 Technical world - Cyber Resilience is an extension of Cyber Security and is defined as “the ability to anticipate, withstand, recover from, and adapt to adverse conditions, stresses, attacks, or compromises on systems that use or are enabled by cyber resources. Cyber resiliency is intended to enable mission or business objectives that depend on cyber resources to be achieved in a contested cyber environment.” (NIST 800-160 v2 r1). Cyber Resilience is grounded on NIST 800-160 v2 r1 and MITRE CREF (the most authoritative industry resources known nowadays).
-
-
-put answer here
 
 "the ability to continuously deliver the intended outcome despite adverse events"
 reference "Cyber Resilience - fundamentals for a definition" Bjorck et al,
@@ -81,7 +68,7 @@ resume business operations quickly in case of a successful
 attack.”
 https://www.ecb.europa.eu/paym/cyber-resilience/html/index.en.html
 
-“‘Cyber resilience’ is the ability for organisations to
+“‘Cyber resilience’ is the ability for organizations to
 prepare for, respond to and recover from cyber attacks and
 security breaches.”
 https://www.gov.uk/government/collections/cyber-resilience
@@ -98,34 +85,25 @@ adapt to adverse conditions, stresses, attacks, or
 compromises on cyber resources.”
 https://www.mitre.org/sites/default/files/PR_17-1434.pdf
 
-This is from Francesco – collated from various sources (mainly MITRE and ISF).
-"The science of anticipation defined mission assurance. Mission assurance defines engineering practices to secure enterprises from advanced threats. Cyber resilience is part of mission assurance, focused on advanced cyber threats."
-
-
-### What is the relationship between Cyber Resilience and Cyber Security?
-
-Cyber Resilience is an overlay and extension of Cyber Security.
-There are four key differences between Cyber Resilience and Cyber Security (source: www.highvaluetarget.org):
-
-Difference #1: Cybersecurity encompasses a wide set of controls from NIST 800-53 r5 (by definition, a set of security baseline controls), roughly 1100 controls. Cyber resilience aims to extend the depth at which a small set of controls are designed and then perform (this set of controls is outlined in NIST 800-53 but NIST 800-160 and 800-172 expand these), roughly 200 controls.
-
-Difference #2: Cybersecurity focuses on protecting all assets, with special focus on high value assets (business view). Cyber resilience focuses on protecting primarily high value targets (adversary view).
-
-Difference #3: Cybersecurity focuses on “severe but plausible” threat scenarios against adversaries who go after the less protected and the most vulnerable – NIST 800-53 controls allow to provide adequate protection against these. Cyber resilience focuses on “extreme but plausible” threat scenarios against adversaries who may pivot from primary organizational impacts to secondary impacts potentially causing unknown harm to the organization as a whole – NIST 800-160 and NIST 800-172 provide the needed techniques and approaches which have corresponding controls in NIST 800-53 r5 however at a deeper level of detail.
-
-Difference #4: Cybersecurity focuses on reducing likelihood of occurrence as well as reducing likelihood of impact through the application of security frameworks such as the NIST CSF. Security is about keeping adversary from doing harm. Cyber resilience focuses on reducing magnitude of impact which can be achieved by specific security architecture and engineering practices such as MITRE CREF. Resiliency recognizes harm may occur and how to maximize mission achievement despite that.
-
+Collated from various sources (mainly MITRE and ISF).
+"While mission assurance defines engineering practices to secure enterprises from advanced threats, cyber resilience is part of mission assurance, focused on advanced cyber threats."
 
 ### What is the relationship between Cyber Resilience and Business Resilience?
-Business Resilience is the ability for a business or organization to continue to move foward with it's business prupose while reacting and recovering to unknown challanges.  It is generally a key driver for any risk program.  Business Resilience, and the policies and tollerances that are agreed upon by the risk office should be the drivers for a Cyber Resilience program.  In other words, a Cyber Resilience program should fufill the goals of a Business Resiliance plan or program, where technology is conserned.
-
+Business Resilience is the ability for a business or organization to continue to move forward with its business purpose while reacting and recovering to unknown challenges.  It is generally a key driver for any risk program.  Business Resilience, and the policies and tolerances that are agreed upon by the risk office should be the drivers for a Cyber Resilience program.  In other words, a Cyber Resilience program should fufill the goals of a Business Resilience plan or program, where technology is concerned.
 
 ### Where can I find out more about Cyber Resilience?
 - Blogs
+  - World Economic Forum: https://www.weforum.org/agenda/2021/11/why-move-cyber-security-to-cyber-resilience/ 
+  - Cisco: https://www.cisco.com/c/en/us/solutions/hybrid-work/what-is-cyber-resilience.html 
+  - Accenture: https://www.accenture.com/_acnmedia/accenture/conversion-assets/dotcom/documents/local/en/accenture-shifting-from-cybersecurity-to-cyber-resilience-pov.pdf 
+
 - Videos
   - [RSA 2021 - Cyber Resilience: Say What?](https://www.youtube.com/watch?v=XamYaMUkop4)
   - [Valiant Technology - Cybersecurity Resilience Frameworks](https://www.youtube.com/watch?v=9xZ6dYky5JQ)
 - Intro Material
+  - CMU Software Engineering Institute: https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=294094
+  - NIST: https://csrc.nist.gov/glossary/term/cyber_resiliency
+  - IBM: https://www.ibm.com/topics/cyber-resilience
 
 
 ### How is NIST SP800-160 relevant for cyber resilience?
@@ -206,45 +184,22 @@ Others
 
 
 ### What is MITRE Cyber Resilience Analysis (SCRAM)?
-put answer here
- <<Calin>>
-
-For more information see
-[MITRE Cyber Resilience Analysis (SCRAM)](https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
+See:
+MITRE Cyber Resilience Analysis (SCRAM)- (https://www.mitre.org/publications/technical-papers/structured-cyber-resiliency-analysis-methodology)
   
 ### What is the CERT Resilience Management Model?
-put answer here
-<<Josh>>
-  
-For more information see
-[CERT Resilience Management Model (RMM)](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9881)
+See:
+CERT Resilience Management Model (RMM)- (https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=9881)
 
 ### What are the MITRE Cyber Resiliency Design Principles?
-put answer here
-<<Josh>>
-  
-For more information see
-[MITRE Cyber Resiliency Design Principles] (https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
+See:
+MITRE Cyber Resiliency Design Principles- (https://www.mitre.org/sites/default/files/publications/PR%2017-0103%20Cyber%20Resiliency%20Design%20Principles%20MTR17001.pdf)
 
 ### What is the Cyber Resilience Review (CRR) tool?
-put answer here
-<<Josh>>
-  
-For more information see
-[Cyber ResilienceReview (CRR) tool](www.us-cert.gov/ccubedvp/assessments)
-
-### How does Cyber Resilience relate to Enterprise Risk Management (ERM)?
-put answer here
-<<Christina & Walter>>
-
-### How does Cyber Resilience fit with Mitre ATT&CK?
-put answer here
-<<Francesco>>
-
-### How is DIE (distributed, immutable, ephemeral) relevant to Cyber Resilience?
-put answer here
+See:
+Cyber ResilienceReview (CRR) tool - (www.us-cert.gov/ccubedvp/assessments)
 
 ### What is the business justification for increasing Cyber Resilience?
-Similar to cybersecurity spend, cyber-resilience spend
+Similar to cybersecurity spending, cyber-resilience spending
 can be justified using quantitative risk analysis such as in
 [_How to Measure Anything in Cybersecurity Risk_](https://www.barnesandnoble.com/w/how-to-measure-anything-in-cybersecurity-risk-douglas-w-hubbard/1122610668).
